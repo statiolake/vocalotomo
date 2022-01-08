@@ -30,3 +30,11 @@ __pycache__
 myvenv
 db.sqlite3
 local_settings.py
+
+node_modules
+backend/static/
+!backend/static/.gitkeep
+backend/static_release/
+!backend/static_release/.gitkeep
+backend/templates/
+!backend/templates/.gitkeep
