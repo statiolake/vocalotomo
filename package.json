@@ -1,0 +1,7 @@
+{
+  "name": "vocalotomo-dummy-builder",
+  "version": "0.1.0",
+  "scripts": {
+    "postinstall": "npm install --prefix frontend && npm run build --prefix frontend"
+  }
+}
