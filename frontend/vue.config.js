@@ -1,7 +1,7 @@
 module.exports = {
   transpileDependencies: ["vuetify"],
   //ここで指定した場所で展開する
-  outputDir: "../../backend",
+  outputDir: "../backend",
   //サーバーを起動した時のルートパス
   publicPath: "/",
   //outputDir起点でindex.htmlを格納する場所を指定
