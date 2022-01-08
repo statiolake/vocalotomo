@@ -31,6 +31,7 @@ myvenv
 db.sqlite3
 local_settings.py
 
+package-lock.json
 node_modules
 backend/static/
 !backend/static/.gitkeep
