@@ -37,5 +37,5 @@ backend/static/
 !backend/static/.gitkeep
 backend/static_release/
 !backend/static_release/.gitkeep
-backend/templates/
-!backend/templates/.gitkeep
+backend/api/templates/
+!backend/api/templates/.gitkeep
